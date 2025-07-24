@@ -1,0 +1,8 @@
+site_name: Z-Lion'Wiki
+nav:
+  - 首页: index.md
+  - 关于: 
+    - 关于我们: about_us.md
+    - 关于知识库: about_wiki.md
+theme:
+  name: material
